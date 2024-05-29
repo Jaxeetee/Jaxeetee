@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">passionately learning programming</h3>
+## Welcome to my github page! My name's Jacob
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jacob esclamado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob esclamado" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jacob_esclamado1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jacob_esclamado1" height="30" width="40" /></a>
-</p>
+### 💻 Technologies I have used 
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-rounded&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-grey?style=flat-rounded&logo=css3)
+![Javascript](https://img.shields.io/badge/Javascript-grey?style=flat-rounded&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-grey?style=flat-rounded&logo=typescript)
+![React](https://img.shields.io/badge/React-grey?style=flat-rounded&logo=react)  
+![NextJS](https://img.shields.io/badge/NextJS-grey?style=flat-rounded&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=flat-rounded&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-grey?style=flat-rounded&logo=git)
+![Github](https://img.shields.io/badge/Github-grey?style=flat-rounded&logo=github)
+![C#](https://img.shields.io/badge/C%23-grey?style=flat-rounded)
+![Unity](https://img.shields.io/badge/Unity-grey?style=flat-rounded&logo=unity)
+![MySQL](https://img.shields.io/badge/MySql-grey?style=flat-rounded&logo=mysql)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaxeetee&" alt="jaxeetee" /></p>
-
+[![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&show_icons=true&custom_title=My%20Stats&hide_border=true&bg_color=0e1116&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&custom_title=My%20Stats&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
