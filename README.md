@@ -1,5 +1,6 @@
 ## Welcome to my github page! My name's Jacob
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jacob-esclamado-377689218/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-grey?style=flat-rounded&logo=leetcode)](https://leetcode.com/u/Jaxeetee/)
 
 
 ### Technologies I have used 
