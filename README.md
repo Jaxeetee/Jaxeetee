@@ -15,9 +15,11 @@
 ![C#](https://img.shields.io/badge/C%23-grey?style=flat-rounded)
 ![Unity](https://img.shields.io/badge/Unity-grey?style=flat-rounded&logo=unity)
 ![MySQL](https://img.shields.io/badge/MySql-grey?style=flat-rounded&logo=mysql)
+![Axios](https://img.shields.io/badge/Axios-grey?style=flat-rounded&logo=axios)
+![VSCode](https://img.shields.io/badge/VS%20Code-grey?style=flat-rounded&logo=visualstudiocode&logoColor=0078d7)
 
 
-[![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&show_icons=true&custom_title=My%20Stats&hide_border=true&bg_color=0e1116&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&show_icons=true&custom_title=My%20Stats&hide_border=false&border_radius=10&card_width=500&bg_color=0e1116&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&custom_title=My%20Stats&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=github-dark-blue&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
