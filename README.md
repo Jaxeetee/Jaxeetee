@@ -1,6 +1,8 @@
 ## Welcome to my github page! My name's Jacob
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jacob-esclamado-377689218/)
 
-### 💻 Technologies I have used 
+
+### Technologies I have used 
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-rounded&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-grey?style=flat-rounded&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-grey?style=flat-rounded&logo=javascript)
@@ -17,3 +19,5 @@
 
 [![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&show_icons=true&custom_title=My%20Stats&hide_border=true&bg_color=0e1116&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&custom_title=My%20Stats&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=github-dark-blue&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&hide_total_contributions=true)](https://git.io/streak-stats)
