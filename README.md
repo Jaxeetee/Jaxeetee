@@ -2,6 +2,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-rounded&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jacob-esclamado-377689218/)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-grey?style=flat-rounded&logo=leetcode)](https://leetcode.com/u/Jaxeetee/)
 
+### My goals
+- gain the skills to become a full stack developer
+- be able to create good UI/UX design for different common platforms
+- create different everyday-used applications
 
 ### Technologies I have used 
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-rounded&logo=html5)
