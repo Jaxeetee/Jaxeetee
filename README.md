@@ -4,6 +4,13 @@
 
 ### My goals
 - gain the skills to become a full stack developer
+- to have knowledge in modern technologies such as:
+    - React
+    - NodeJS
+    - NextJS
+    - Python
+    - Kotlin
+    - Java
 - be able to create good UI/UX design for different common platforms
 - create different everyday-used applications
 
