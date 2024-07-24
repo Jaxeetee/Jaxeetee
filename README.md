@@ -11,7 +11,7 @@
     - Python
     - Kotlin
     - Java
-- be able to create good UI/UX design for different common platforms
+- be able to implement unique UI designs for different common applications & platforms
 - create different everyday-used applications
 
 ### Technologies I have used 
