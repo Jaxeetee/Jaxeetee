@@ -3,7 +3,7 @@
 [![Leetcode](https://img.shields.io/badge/-Leetcode-grey?style=flat-rounded&logo=leetcode)](https://leetcode.com/u/Jaxeetee/)
 
 ### My goals
-- gain the skills to become a full stack developer
+- gain the skills to become a very knowledgable programmer
 - to have knowledge in modern technologies such as:
     - React
     - NodeJS
