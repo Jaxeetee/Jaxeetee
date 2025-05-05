@@ -4,15 +4,8 @@
 
 ### My goals
 - gain the skills to become a very knowledgable programmer
-- to have knowledge in modern technologies such as:
-    - React
-    - NodeJS
-    - NextJS
-    - Python
-    - Kotlin
-    - Java
-- be able to implement unique UI designs for different common applications & platforms
-- create different everyday-used applications
+- enjoy programming things
+- create and finish applications
 
 ### Technologies I have used 
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-rounded&logo=html5)
