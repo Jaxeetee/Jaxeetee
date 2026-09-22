@@ -4,7 +4,7 @@
 
 ### My goals
 - enjoy creating things
-- finish them projects
+- finish the the things I started
 
 
 ### Technologies I have used 
@@ -24,5 +24,6 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-grey?style=flat-rounded&logo=visualstudiocode&logoColor=0078d7)
 
 
+[![Jaxeetee's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jaxeetee&theme=noctis-minimus&hide_title=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=noctis-minimus&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&hide_total_contributions=true)](https://git.io/streak-stats)
