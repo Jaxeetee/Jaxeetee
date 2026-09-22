@@ -3,9 +3,9 @@
 [![Leetcode](https://img.shields.io/badge/-Leetcode-grey?style=flat-rounded&logo=leetcode)](https://leetcode.com/u/Jaxeetee/)
 
 ### My goals
-- gain the skills to become a very knowledgable programmer
-- enjoy programming things
-- create and finish applications
+- enjoy creating things
+- finish them projects
+
 
 ### Technologies I have used 
 ![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat-rounded&logo=html5)
@@ -23,8 +23,6 @@
 ![Axios](https://img.shields.io/badge/Axios-grey?style=flat-rounded&logo=axios)
 ![VSCode](https://img.shields.io/badge/VS%20Code-grey?style=flat-rounded&logo=visualstudiocode&logoColor=0078d7)
 
-
-[![My Statistics](https://github-readme-stats.vercel.app/api?username=Jaxeetee&show_icons=true&custom_title=My%20Stats&hide_border=false&border_radius=10&card_width=450&bg_color=0e1116&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&hide_total_contributions=true)](https://git.io/streak-stats)
