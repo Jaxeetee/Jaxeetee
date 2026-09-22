@@ -25,4 +25,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=github-dark-blue&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jaxeetee&theme=noctis-minimus&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&hide_total_contributions=true)](https://git.io/streak-stats)
